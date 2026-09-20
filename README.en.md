@@ -4,6 +4,8 @@
 
 📖 Full documentation: <https://redtidev1918.github.io/ParaNote/>
 
+A lightweight paragraph-comment service plus a general-purpose web reader.
+
 A lightweight paragraph-comment service plus a general-purpose web reader. It gives any web
 page an immersive reading experience with paragraph-level comment interaction.
 

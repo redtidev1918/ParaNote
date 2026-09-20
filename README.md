@@ -4,6 +4,8 @@
 
 📖 完整文档：<https://redtidev1918.github.io/ParaNote/>
 
+**轻量级段落评论服务 + 通用网页阅读器。**
+
 轻量级段落评论服务 + 通用网页阅读器。为任何网页提供沉浸式阅读体验和段落级评论互动。
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
