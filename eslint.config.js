@@ -5,7 +5,8 @@ import globals from "globals";
 
 export default [
   {
-    ignores: ["node_modules/**", "dist/**", "data/**"],
+    // 文档站外壳由 docsite 托管，assets/vendor 是第三方压缩产物，不参与 lint。
+    ignores: ["node_modules/**", "dist/**", "data/**", "**/assets/vendor/**"],
   },
   {
     languageOptions: {
