@@ -1,6 +1,12 @@
 - Getting Started
   - [Documentation Home](/docs/en/README.md)
   - [📥 Download](/docs/en/download.md)
+  - [CLI](/docs/en/CLI.md)
+  - [Usage modes](/docs/en/USAGE.md)
+  - [Integration guide](/docs/en/INTEGRATION.md)
+  - [Deployment](/docs/en/DEPLOY.md)
+  - [API reference](/docs/en/API.md)
+  - [Development](/docs/en/DEVELOPMENT.md)
 
 - 中文
   - [文档首页](/README.md)
