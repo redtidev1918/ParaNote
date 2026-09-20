@@ -1,4 +1,6 @@
 {
+  "name": "ParaNote",
+  "emoji": "📝",
   "navigation": {
     "allowSidebarAnchors": true,
     "allowCombinedLocales": true
