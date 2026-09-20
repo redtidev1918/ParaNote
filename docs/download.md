@@ -1,6 +1,10 @@
-# 📥 下载 paranote
+<!-- docsite-release-repo: redtidev1918/ParaNote -->
+<!-- docsite-release-tag: v0.2.0 -->
+# 📥 下载 ParaNote
 
 **语言 / Language:** 中文 · [English](/docs/en/download.md)
+
+<!-- docsite: generated from redtidev1918/ParaNote release v0.2.0; do not edit by hand -->
 
 本页由 GitHub Actions 在每次发版时**自动更新**，始终指向最新 Release。
 
