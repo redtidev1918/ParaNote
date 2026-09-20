@@ -2,6 +2,8 @@
 
 **Language / 语言:** [中文](README.md) · English
 
+📖 Full documentation: <https://redtidev1918.github.io/ParaNote/>
+
 A lightweight paragraph-comment service plus a general-purpose web reader. It gives any web
 page an immersive reading experience with paragraph-level comment interaction.
 
