@@ -6,9 +6,9 @@
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/stars/redtidev1918/paranote?style=social)](https://github.com/redtidev1918/paranote)
+[![GitHub](https://img.shields.io/github/stars/redtidev1918/ParaNote?style=social)](https://github.com/redtidev1918/ParaNote)
 
-**[npm](https://www.npmjs.com/package/paranote)** | **[GitHub](https://github.com/redtidev1918/paranote)** | **[文档](https://redtidev1918.github.io/paranote/)**
+**[npm](https://www.npmjs.com/package/paranote)** | **[GitHub](https://github.com/redtidev1918/ParaNote)** | **[文档](https://redtidev1918.github.io/ParaNote/)**
 
 ## 目录
 
@@ -488,7 +488,7 @@ token：
 
 1. 打开 npm 包页面 → **Settings → Trusted Publisher**
 2. 填入：
-   - **Repository**: `redtidev1918/paranote`
+   - **Repository**: `redtidev1918/ParaNote`
    - **Workflow filename**: `release.yml`（必须与 `.github/workflows/release.yml` 文件名一致）
    - **Environment**: 留空（如需额外保护可在 npm 和 workflow 中配置同名 environment）
 3. 保存后，推送 `v*` 标签即可自动发版

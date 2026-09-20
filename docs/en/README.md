@@ -17,7 +17,7 @@ short index. The Chinese README is the default at [`/`](/).
 
 ## Links
 
-- Repository: <https://github.com/redtidev1918/paranote>
+- Repository: <https://github.com/redtidev1918/ParaNote>
 - npm: <https://www.npmjs.com/package/paranote>
-- Releases: <https://github.com/redtidev1918/paranote/releases>
-- Changelog: <https://github.com/redtidev1918/paranote/blob/main/CHANGELOG.md>
+- Releases: <https://github.com/redtidev1918/ParaNote/releases>
+- Changelog: <https://github.com/redtidev1918/ParaNote/blob/main/CHANGELOG.md>

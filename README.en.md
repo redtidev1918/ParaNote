@@ -7,9 +7,9 @@ page an immersive reading experience with paragraph-level comment interaction.
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub](https://img.shields.io/github/stars/redtidev1918/paranote?style=social)](https://github.com/redtidev1918/paranote)
+[![GitHub](https://img.shields.io/github/stars/redtidev1918/ParaNote?style=social)](https://github.com/redtidev1918/ParaNote)
 
-**[npm](https://www.npmjs.com/package/paranote)** | **[GitHub](https://github.com/redtidev1918/paranote)** | **[Docs](https://redtidev1918.github.io/paranote/)**
+**[npm](https://www.npmjs.com/package/paranote)** | **[GitHub](https://github.com/redtidev1918/ParaNote)** | **[Docs](https://redtidev1918.github.io/ParaNote/)**
 
 ## Contents
 
@@ -418,7 +418,7 @@ needed**. Bind it once on npmjs.com:
 
 1. Open the npm package page → **Settings → Trusted Publisher**
 2. Fill in:
-   - **Repository**: `redtidev1918/paranote`
+   - **Repository**: `redtidev1918/ParaNote`
    - **Workflow filename**: `release.yml` (must match `.github/workflows/release.yml`)
    - **Environment**: leave empty
 3. Save; pushing a `v*` tag then releases automatically.

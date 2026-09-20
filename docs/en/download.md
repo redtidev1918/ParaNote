@@ -6,8 +6,8 @@ This page is **generated automatically** by GitHub Actions on every release and 
 
 ## Latest version: `v0.2.0` (2026-08-27)
 
-👉 [Release notes and checksums](https://github.com/redtidev1918/paranote/releases/tag/v0.2.0)
+👉 [Release notes and checksums](https://github.com/redtidev1918/ParaNote/releases/tag/v0.2.0)
 
 | Platform | File | Size | Download |
 |---|---|---|---|
-| All platforms | `RELEASE-METADATA.json` | 1 KB | [⬇️ Download](https://github.com/redtidev1918/paranote/releases/download/v0.2.0/RELEASE-METADATA.json) |
+| All platforms | `RELEASE-METADATA.json` | 1 KB | [⬇️ Download](https://github.com/redtidev1918/ParaNote/releases/download/v0.2.0/RELEASE-METADATA.json) |

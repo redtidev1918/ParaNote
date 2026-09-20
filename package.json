@@ -58,11 +58,11 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/redtidev1918/paranote.git"
+    "url": "git+https://github.com/redtidev1918/ParaNote.git"
   },
-  "homepage": "https://redtidev1918.github.io/paranote/",
+  "homepage": "https://redtidev1918.github.io/ParaNote/",
   "bugs": {
-    "url": "https://github.com/redtidev1918/paranote/issues"
+    "url": "https://github.com/redtidev1918/ParaNote/issues"
   },
   "engines": {
     "node": ">=20.0.0"

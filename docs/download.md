@@ -6,7 +6,7 @@
 
 ## 最新版本：`v0.2.0`（2026-08-27）
 
-👉 [查看 Release 说明与校验和](https://github.com/redtidev1918/paranote/releases/tag/v0.2.0)
+👉 [查看 Release 说明与校验和](https://github.com/redtidev1918/ParaNote/releases/tag/v0.2.0)
 
 ## 获取与安装
 
@@ -35,4 +35,4 @@ docker run -d -p 4000:4000 -v $(pwd)/data:/app/data paranote
 
 | 平台 | 文件 | 大小 | 下载 |
 |---|---|---|---|
-| 通用 | `RELEASE-METADATA.json` | 1 KB | [⬇️ 下载](https://github.com/redtidev1918/paranote/releases/download/v0.2.0/RELEASE-METADATA.json) |
+| 通用 | `RELEASE-METADATA.json` | 1 KB | [⬇️ 下载](https://github.com/redtidev1918/ParaNote/releases/download/v0.2.0/RELEASE-METADATA.json) |
