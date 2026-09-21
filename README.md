@@ -2,7 +2,7 @@
 
 **语言 / Language:** 中文 · [English](README.en.md)
 
-**轻量级段落评论服务 + 通用网页阅读器。**
+> **轻量级段落评论服务 + 通用网页阅读器。**
 
 📖 [完整文档](https://redtidev1918.github.io/ParaNote/)
 

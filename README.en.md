@@ -2,7 +2,7 @@
 
 **Language / 语言:** [中文](README.md) · English
 
-**A lightweight paragraph-comment service plus a general-purpose web reader.**
+> **A lightweight paragraph-comment service plus a general-purpose web reader.**
 
 📖 [Full documentation](https://redtidev1918.github.io/ParaNote/)
 
