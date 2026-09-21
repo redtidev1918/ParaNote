@@ -6,6 +6,13 @@
 版本号遵循 [语义化版本](https://semver.org/lang/zh-CN/)。
 发版由 GitHub Actions 自动完成（推送 `v*` 标签触发），详见 README「自动化发版」。
 
+## [0.2.1](https://github.com/redtidev1918/ParaNote/compare/v0.2.0...v0.2.1) (2026-09-21)
+
+
+### Bug Fixes
+
+* **lint:** ignore the managed docs shell vendor assets ([3b14e9b](https://github.com/redtidev1918/ParaNote/commit/3b14e9b7a7cb3b784c235b630a2a73d101a88607))
+
 ## [Unreleased]
 
 ## [0.2.0] - 2026-08-27
