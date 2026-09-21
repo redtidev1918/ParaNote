@@ -2,11 +2,11 @@
 
 **语言 / Language:** 中文 · [English](README.en.md)
 
-📖 完整文档：<https://redtidev1918.github.io/ParaNote/>
-
 **轻量级段落评论服务 + 通用网页阅读器。**
 
-轻量级段落评论服务 + 通用网页阅读器。为任何网页提供沉浸式阅读体验和段落级评论互动。
+📖 [完整文档](https://redtidev1918.github.io/ParaNote/)
+
+为任何网页提供沉浸式阅读体验和段落级评论互动。
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -101,7 +101,7 @@ server.listen(config.port, () => {
 
 ## 文档
 
-README 只讲怎么上手；命令行、集成、部署与接口在文档站 <https://redtidev1918.github.io/ParaNote/>：
+README 只讲怎么上手；命令行、集成、部署与接口在[文档站](https://redtidev1918.github.io/ParaNote/)：
 
 | 你想做什么 | 文档 |
 | --- | --- |

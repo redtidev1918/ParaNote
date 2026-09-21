@@ -2,12 +2,11 @@
 
 **Language / 语言:** [中文](README.md) · English
 
-📖 Full documentation: <https://redtidev1918.github.io/ParaNote/>
+**A lightweight paragraph-comment service plus a general-purpose web reader.**
 
-A lightweight paragraph-comment service plus a general-purpose web reader.
+📖 [Full documentation](https://redtidev1918.github.io/ParaNote/)
 
-A lightweight paragraph-comment service plus a general-purpose web reader. It gives any web
-page an immersive reading experience with paragraph-level comment interaction.
+It gives any web page an immersive reading experience with paragraph-level comment interaction.
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -102,8 +101,8 @@ server.listen(config.port, () => {
 
 ## Documentation
 
-This README only covers the start; the CLI, integration, deployment, and API live on the docs site
-<https://redtidev1918.github.io/ParaNote/>:
+This README only covers the start; the CLI, integration, deployment, and API live on the
+[docs site](https://redtidev1918.github.io/ParaNote/):
 
 | What you want | Where |
 | --- | --- |
