@@ -4,7 +4,7 @@
 
 > **轻量级段落评论服务 + 通用网页阅读器。**
 
-📖 [完整文档](https://redtidev1918.github.io/ParaNote/)
+[完整文档](https://redtidev1918.github.io/ParaNote/)
 
 为任何网页提供沉浸式阅读体验和段落级评论互动。
 
@@ -18,12 +18,8 @@
 
 - [核心特性](#核心特性)
 - [快速开始](#快速开始)
-- [CLI 命令行工具](#cli-命令行工具)
-- [使用模式](#使用模式)
-- [站长集成指南](#站长集成指南)
-- [部署](#部署)
-- [API 参考](#api-参考)
-- [开发](#开发)
+- [文档导航](#文档导航)
+- [致谢](#致谢)
 
 ---
 
@@ -99,7 +95,7 @@ server.listen(config.port, () => {
 - **[Hypothesis](https://github.com/hypothesis/h)** - 开源网页注释系统，UI 设计灵感来源
 - **[BrowserForge](https://github.com/daijro/browserforge)** - 智能浏览器指纹生成库
 
-## 文档
+## 文档导航
 
 README 只讲怎么上手；命令行、集成、部署与接口在[文档站](https://redtidev1918.github.io/ParaNote/)：
 
@@ -112,6 +108,6 @@ README 只讲怎么上手；命令行、集成、部署与接口在[文档站](h
 | 调 API | [API 参考](docs/API.md) |
 | 改代码 | [开发](docs/DEVELOPMENT.md) |
 
-## License
+## 许可证
 
-MIT
+MIT。
