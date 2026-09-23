@@ -1,6 +1,6 @@
 # ParaNote
 
-轻量级段落评论服务 + 通用网页阅读器。为任何网页提供沉浸式阅读体验和段落级评论互动。
+轻量级段落评论服务 + 通用网页阅读器。给任意网页加段落级评论，也能把 URL 转成可阅读的页面。
 
 [![npm version](https://img.shields.io/npm/v/paranote.svg)](https://www.npmjs.com/package/paranote)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
@@ -10,7 +10,7 @@
 
 ## 目录
 
-- [核心特性](#核心特性)
+- [功能](#功能)
 - [快速开始](#快速开始)
 - [CLI 命令行工具](#cli-命令行工具)
 - [使用模式](#使用模式)
@@ -21,18 +21,18 @@
 
 ---
 
-## 核心特性
+## 功能
 
 - **双重模式** - 既是独立的阅读器，也是可嵌入的评论插件
 - **段落级评论** - 精确到段落的互动，支持回复、点赞和删除
-- **通用阅读模式** - 输入任意 URL，自动提取正文，生成纯净阅读页面
-- **强力抗反爬** - 内置 Puppeteer + Stealth + BrowserForge，自动处理 Cloudflare 验证
+- **通用阅读模式** - 输入一个 URL，自动提取正文并生成阅读页面
+- **反反爬** - 内置 Puppeteer + Stealth + BrowserForge，自动处理 Cloudflare 验证
 - **模糊定位** - 采用内容指纹定位，即使原文段落增删，评论也能自动归位
-- **现代 UI** - Hypothesis 风格的卡片式侧边栏，支持多彩头像和丝滑动画
+- **界面** - Hypothesis 风格的卡片式侧边栏，支持多彩头像和动画
 - **移动端适配** - 专为手机优化的底部抽屉交互
 - **匿名支持** - 自动生成访客身份，IP 防重复点赞
 - **用户拉黑** - 管理员可拉黑恶意用户
-- **CLI 管理** - 完整的命令行工具，无需 Web 界面即可管理
+- **CLI 管理** - 命令行工具可以管理评论和用户，不需要 Web 界面
 
 ---
 
@@ -90,7 +90,7 @@ server.listen(config.port, () => {
 
 ## CLI 命令行工具
 
-ParaNote 提供完整的命令行工具，让你无需 Web 管理后台即可管理评论和用户。
+ParaNote 的命令行工具可以管理评论和用户，不需要 Web 管理后台。
 
 ### 服务器命令
 
