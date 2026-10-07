@@ -12,6 +12,7 @@ on:
       dry_run: {description: "Build and validate without publishing", required: false, default: false, type: boolean}
       force: {description: "Rerun a healthy version", required: false, default: false, type: boolean}
       repair: {description: "Repair the current incomplete version", required: false, default: false, type: boolean}
+      source_ref: {description: "Original release commit for an inspected recovery", required: false, default: "", type: string}
       stage: {description: "Recovery stage label", required: false, default: all, type: string}
 
 permissions:
@@ -29,11 +30,12 @@ jobs:
     # check on every release PR. Self-healing: once RELEASE_PLEASE_TOKEN (a real user
     # PAT) authors the release PR, this guard no longer matches and CI returns.
     if: github.event_name != 'pull_request' || github.event.pull_request.user.login != 'github-actions[bot]'
-    uses: redtidev1918/releasegraph/.github/workflows/reusable-release.yml@5fe0c766ac06ffe796b6ed1998055438e813c132 # ReleaseGraph npm publication checkout preparation
+    uses: redtidev1918/releasegraph/.github/workflows/reusable-release.yml@c18da22d480b90d660a2df8b0be9e5a0c017a1d8 # ReleaseGraph immutable source recovery
     with:
       version: ${{ inputs.version || '' }}
       dry_run: ${{ github.event_name == 'pull_request' || inputs.dry_run || false }}
       force: ${{ inputs.force || false }}
       repair: ${{ github.event_name == 'pull_request' || inputs.repair || false }}
+      source_ref: ${{ inputs.source_ref || '' }}
       stage: ${{ inputs.stage || 'all' }}
     secrets: inherit
