@@ -6,6 +6,7 @@ export default defineConfig({
     include: ['tests/**/*.test.js'],
     // 每个测试文件独立运行，避免环境变量冲突
     isolate: true,
+    fileParallelism: false,
     // 顺序执行，避免并发问题
     sequence: {
       shuffle: false,
