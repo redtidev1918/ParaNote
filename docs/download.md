@@ -1,16 +1,16 @@
 <!-- docsite-release-repo: redtidev1918/ParaNote -->
-<!-- docsite-release-tag: v0.2.0 -->
+<!-- docsite-release-tag: v0.2.1 -->
 # 📥 下载 ParaNote
 
 **语言 / Language:** 中文 · [English](/docs/en/download.md)
 
-<!-- docsite: generated from redtidev1918/ParaNote release v0.2.0; do not edit by hand -->
+<!-- docsite: generated from redtidev1918/ParaNote release v0.2.1; do not edit by hand -->
 
 本页由 GitHub Actions 在每次发版时**自动更新**，始终指向最新 Release。
 
-## 最新版本：`v0.2.0`（2026-08-27）
+## 最新版本：`v0.2.1`（2026-10-07）
 
-👉 [查看 Release 说明与校验和](https://github.com/redtidev1918/ParaNote/releases/tag/v0.2.0)
+👉 [查看 Release 说明与校验和](https://github.com/redtidev1918/ParaNote/releases/tag/v0.2.1)
 
 ## 获取与安装
 
@@ -39,4 +39,4 @@ docker run -d -p 4000:4000 -v $(pwd)/data:/app/data paranote
 
 | 平台 | 文件 | 大小 | 下载 |
 |---|---|---|---|
-| 通用 | `RELEASE-METADATA.json` | 1 KB | [⬇️ 下载](https://github.com/redtidev1918/ParaNote/releases/download/v0.2.0/RELEASE-METADATA.json) |
+| 通用 | `RELEASE-METADATA.json` | 1 KB | [⬇️ 下载](https://github.com/redtidev1918/ParaNote/releases/download/v0.2.1/RELEASE-METADATA.json) |
